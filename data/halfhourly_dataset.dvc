@@ -1,0 +1,5 @@
+outs:
+- md5: 7987ccc1403af40fa60da5d4edc7d6c8.dir
+  size: 7865680019
+  nfiles: 112
+  path: halfhourly_dataset
